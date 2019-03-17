@@ -2,8 +2,8 @@
 
 ## [语法知识](README.md)
 
-* [描述文件](declaration_files.md)
-* test
+1. [描述文件](declaration_files.md)
+2. test
 
 ## h2
 
