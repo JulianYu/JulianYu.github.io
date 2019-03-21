@@ -2,7 +2,7 @@
 
 ## 语法知识
 
-* [Introduction](README.md)
+* [简介](README.md)
 
 ## Handbook
 
