@@ -9,5 +9,6 @@
 
 * [介绍](miao-shu-wen-jian/jie-shao.md)
 * [结构](miao-shu-wen-jian/jie-gou.md)
+* [library\_structure](miao-shu-wen-jian/librarystructure.md)
 * [模板](templete.md)
 
