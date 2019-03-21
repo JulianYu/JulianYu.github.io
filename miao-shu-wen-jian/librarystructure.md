@@ -19,6 +19,10 @@ _全局_库是指能在全局命名空间下访问的（例如：不需要使用
 ```javascript
 $(() => { console.log('hello!'); } );
 ```
+你经常会在全局库的指南文档上看到如何在HTML里用脚本标签引用库：
+```html
+<script src="http://a.great.cdn.for/someLib.js"></script>
+```
 
 
 
