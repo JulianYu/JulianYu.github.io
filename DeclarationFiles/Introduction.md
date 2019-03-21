@@ -2,7 +2,7 @@
 
 这篇指南的目的是教你如何书写高质量的TypeScript声明文件。
 
-在这篇指南里，我们假设你对TypeScript已经有了基本的了解。 如果没有，请先阅读[TypeScript手册](basictypes.md)来了解一些基本知识，尤其是类型和命名空间部分。
+在这篇指南里，我们假设你对TypeScript已经有了基本的了解。 如果没有，请先阅读[TypeScript手册](../handbook/basictypes.md)来了解一些基本知识，尤其是类型和命名空间部分。
 
 # 章节
 
