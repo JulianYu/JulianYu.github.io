@@ -2,7 +2,7 @@
 
 这篇指南的目的是教你如何书写高质量的TypeScript声明文件。
 
-在这篇指南里，我们假设你对TypeScript已经有了基本的了解。 如果没有，请先阅读[TypeScript手册](https://www.tslang.cn/docs/handbook/basic-types.html)来了解一些基本知识，尤其是类型和命名空间部分。
+在这篇指南里，我们假设你对TypeScript已经有了基本的了解。 如果没有，请先阅读[TypeScript手册](basictypes.md)来了解一些基本知识，尤其是类型和命名空间部分。
 
 # 章节
 
@@ -26,7 +26,7 @@
 
 ## 模版
 
-在[模版](https://www.tslang.cn/docs/handbook/declaration-files/templates.html)一节里，你能找到一些声明文件，它们可以帮助你快速开始 当你在书写一个新声明文件的时候。 参考[结构](https://www.tslang.cn/docs/handbook/declaration-files/library-structures.html)这篇文档来找到应该使用哪个模版文件。
+在[模版](templete.md)一节里，你能找到一些声明文件，它们可以帮助你快速开始 当你在书写一个新声明文件的时候。 参考[结构](librarystructure.md)这篇文档来找到应该使用哪个模版文件。
 
 ## 发布到npm
 
