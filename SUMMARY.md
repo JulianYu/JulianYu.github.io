@@ -3,7 +3,6 @@
 ## 语法知识
 
 * [Introduction](README.md)
-* [test](test.md)
 
 ## Handbook
 
